@@ -1,0 +1,12 @@
+# 微服务名称
+spring:
+    application:
+        name: eureka-client
+
+server:
+    port: 2001
+
+eureka:
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:1001/eureka/
