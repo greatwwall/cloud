@@ -5,7 +5,7 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/greatwwall/config-repo/
+                    uri: https://github.com/greatwwall/config-repo
                     
 server:
     port: 1201        
