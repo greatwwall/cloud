@@ -9,3 +9,4 @@ eureka-feign	: 2301	#服务消费者（feign）
 
 
 config-server	: 1201	#分布式配置中心服务端
+config-server	: 1301	#分布式配置中心客户端
